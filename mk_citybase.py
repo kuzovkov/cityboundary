@@ -35,7 +35,7 @@ if '-v' in map(lambda item: item[0], optlist):
 conn = db.connect(db_file)
 # creating a Cursor
 cur = conn.cursor()
-cur.execute('CREATE TABLE IF NOT EXISTS city(id INTEGER PRIMARY KEY AUTOINCREMENT, city_name, city_lastname, geometry, min_lng DOUBLE, min_lat DOUBLE, max_lng DOUBLE, max_lat DOUBLE)')
+cur.execute('CREATE TABLE IF NOT EXISTS city(id INTEGER PRIMARY KEY AUTOINCREMENT, city_name, city_lastname, geometry, min_lng DOUBLE, min_lat DOUBLE, max_lng DOUBLE, max_lat DOUBLE, country)')
 
 '''получаем список файлов с данными'''
 dat_files = os.listdir(dirname)
@@ -53,6 +53,7 @@ for dat_file in dat_files:
     lines_count = len(lines)
     '''перебираем строки'''
     city_count = 0
+    country = dat_file.split('_')[0]
     for line in lines:
         city_data = line.split('|')
         city_name = city_data[0].replace("'","")
@@ -67,7 +68,7 @@ for dat_file in dat_files:
             min_lat = rec[1]
             max_lng = rec[2]
             max_lat = rec[3]
-        sql = "INSERT INTO city (city_name, city_lastname, geometry, min_lng, min_lat, max_lng, max_lat) VALUES('"+city_name+"', '"+city_lastname+"', '"+city_geometry+"'," + str(min_lng) + "," + str(min_lat) + "," + str(max_lng) + "," + str(max_lat)+")"
+        sql = "INSERT INTO city (city_name, city_lastname, geometry, min_lng, min_lat, max_lng, max_lat, country) VALUES('"+city_name+"', '"+city_lastname+"', '"+city_geometry+"'," + str(min_lng) + "," + str(min_lat) + "," + str(max_lng) + "," + str(max_lat) + ", '" + country + "')"
         #print sql
         cur.execute(sql)
     conn.commit()

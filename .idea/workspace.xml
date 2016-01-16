@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4e0e64f-afc1-41e0-92fa-a52c2a0a6a2f" name="Default" comment="" />
+    <list default="true" id="a4e0e64f-afc1-41e0-92fa-a52c2a0a6a2f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.txt" afterPath="$PROJECT_DIR$/readme.txt" />
+    </list>
     <ignored path="Boundary.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -21,11 +23,11 @@
     <favorites_list name="Boundary" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="mk_citybase.py" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="mk_citybase.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mk_citybase.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23222749">
+            <state vertical-scroll-proportion="0.0">
               <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
               <folding>
                 <element signature="e#38#48#0" expanded="true" />
@@ -52,10 +54,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="queries.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="queries.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/queries.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.4478673">
               <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
               <folding />
             </state>
@@ -63,6 +65,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -131,6 +136,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -165,7 +171,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -245,6 +250,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -379,25 +389,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="24" width="1282" height="977" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2453125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993135" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993135" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -417,69 +427,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dat/DEU_adm.dat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.7748816">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dat/POL_adm.dat">
+    <entry file="file://$PROJECT_DIR$/mk_citybase.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dat/RUS_adm2.dat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="67.98037">
-          <caret line="132" column="4654" selection-start-line="132" selection-start-column="4654" selection-end-line="132" selection-end-column="4654" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dat/UKR_adm.dat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.414692">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mk_citysector.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2535545">
-          <caret line="55" column="15" selection-start-line="55" selection-start-column="15" selection-end-line="55" selection-end-column="15" />
           <folding>
             <element signature="e#38#48#0" expanded="true" />
-            <marker date="1450473303425" expanded="true" signature="1068:1147" placeholder="CREATE TABLE... IF" />
-            <marker date="1450473303425" expanded="true" signature="1163:1213" placeholder="CREATE TABLE... IF" />
-            <marker date="1450473303425" expanded="true" signature="1229:1251" placeholder="DELETE FROM " />
-            <marker date="1450473303425" expanded="true" signature="1267:1303" placeholder="INSERT INTO scaleparam... " />
-            <marker date="1450473303425" expanded="true" signature="1267:1321" placeholder="INSERT INTO scaleparam... " />
-            <marker date="1450473303425" expanded="true" signature="1267:1322" placeholder="INSERT INTO scaleparam... " />
-            <marker date="1450473303425" expanded="true" signature="2736:2843" placeholder="SELECT Inter... " />
-            <marker date="1450473303425" expanded="true" signature="2742:2770" placeholder="select Inter... " />
-            <marker date="1450473303425" expanded="true" signature="2742:2812" placeholder="select Inter... " />
-            <marker date="1450473303425" expanded="true" signature="2742:2833" placeholder="select Inter... " />
-            <marker date="1450473303425" expanded="true" signature="3027:3092" placeholder="INSERT INTO citysector... " />
-            <marker date="1450473303425" expanded="true" signature="3027:3106" placeholder="INSERT INTO citysector... " />
-            <marker date="1450473303425" expanded="true" signature="3027:3107" placeholder="INSERT INTO citysector... " />
-            <marker date="1450473303425" expanded="true" signature="3027:3127" placeholder="INSERT INTO citysector... " />
-            <marker date="1450473303425" expanded="true" signature="3027:3151" placeholder="INSERT INTO citysector... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/OSMOSIS/start_osm_cut.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1279621">
-          <caret line="67" column="34" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
-          <folding>
-            <element signature="e#252#261#0" expanded="false" />
+            <marker date="1450477591137" expanded="true" signature="969:1138" placeholder="CREATE TABLE... IF" />
+            <marker date="1450477591137" expanded="true" signature="1949:1981" placeholder="SELECT MbrMi... " />
+            <marker date="1450477591137" expanded="true" signature="1949:2003" placeholder="SELECT MbrMi... " />
+            <marker date="1450477591137" expanded="true" signature="1949:2016" placeholder="SELECT MbrMi... " />
+            <marker date="1450477591137" expanded="true" signature="1949:2076" placeholder="SELECT MbrMi... " />
+            <marker date="1450477591137" expanded="true" signature="1949:2134" placeholder="SELECT MbrMi... " />
+            <marker date="1450477591137" expanded="true" signature="1949:2194" placeholder="SELECT MbrMi... " />
+            <marker date="1450477591137" expanded="true" signature="2382:2479" placeholder="INSERT INTO city... " />
+            <marker date="1450477591137" expanded="true" signature="2382:2496" placeholder="INSERT INTO city... " />
+            <marker date="1450477591137" expanded="true" signature="2382:2497" placeholder="INSERT INTO city... " />
+            <marker date="1450477591137" expanded="true" signature="2382:2516" placeholder="INSERT INTO city... " />
+            <marker date="1450477591137" expanded="true" signature="2382:2518" placeholder="INSERT INTO city... " />
+            <marker date="1450477591137" expanded="true" signature="2382:2537" placeholder="INSERT INTO city... " />
+            <marker date="1450477591137" expanded="true" signature="2382:2558" placeholder="INSERT INTO city... " />
+            <marker date="1450477591137" expanded="true" signature="2382:2579" placeholder="INSERT INTO city... " />
+            <marker date="1450477591137" expanded="true" signature="2382:2600" placeholder="INSERT INTO city... " />
+            <marker date="1450477591137" expanded="true" signature="2382:2616" placeholder="INSERT INTO city... " />
+            <marker date="1450477591137" expanded="true" signature="2382:2619" placeholder="INSERT INTO city... " />
           </folding>
         </state>
       </provider>
@@ -492,35 +463,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/www/geoservice_python/wsgi_app/incity.wsgi.py">
+    <entry file="file://$PROJECT_DIR$/dat/DEU_adm.dat">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5135135">
-          <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
-          <folding>
-            <marker date="1450543348476" expanded="true" signature="1049:1122" placeholder="SELECT id FR... city" />
-            <marker date="1450543348476" expanded="true" signature="1049:1168" placeholder="SELECT id FR... city" />
-            <marker date="1450543348476" expanded="true" signature="1049:1169" placeholder="SELECT id FR... city" />
-            <marker date="1450543348476" expanded="true" signature="1049:1196" placeholder="SELECT id FR... city" />
-            <marker date="1450543348476" expanded="true" signature="1049:1203" placeholder="SELECT id, g... city" />
-            <marker date="1450543348476" expanded="true" signature="1049:1207" placeholder="SELECT id FR... city" />
-            <marker date="1450543348476" expanded="true" signature="1049:1208" placeholder="SELECT id FR... city" />
-            <marker date="1450543348476" expanded="true" signature="1049:1243" placeholder="SELECT id, g... city" />
-            <marker date="1450543348476" expanded="true" signature="1049:1244" placeholder="SELECT id FR... city" />
-            <marker date="1450543348476" expanded="true" signature="1049:1251" placeholder="SELECT id, g... city" />
-            <marker date="1450543348476" expanded="true" signature="1049:1254" placeholder="SELECT id, g... city" />
-            <marker date="1450543348476" expanded="true" signature="1049:1255" placeholder="SELECT id, g... city" />
-            <marker date="1450543348476" expanded="true" signature="1049:1272" placeholder="SELECT id FR... city" />
-            <marker date="1450543348476" expanded="true" signature="1620:1654" placeholder="SELECT Inter... " />
-            <marker date="1450543348476" expanded="true" signature="1620:1695" placeholder="SELECT Inter... " />
-            <marker date="1450543348476" expanded="true" signature="1620:1696" placeholder="SELECT Inter... " />
-            <marker date="1450543348476" expanded="true" signature="1620:1721" placeholder="SELECT Inter... " />
-          </folding>
+        <state vertical-scroll-proportion="-3.7748816">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dat/POL_adm.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dat/RUS_adm2.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="67.98037">
+          <caret line="132" column="4654" selection-start-line="132" selection-start-column="4654" selection-end-line="132" selection-end-column="4654" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dat/UKR_adm.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.414692">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mk_citysector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2535545">
+          <caret line="55" column="15" selection-start-line="55" selection-start-column="15" selection-end-line="55" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/OSMOSIS/start_osm_cut.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1279621">
+          <caret line="67" column="34" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mk_citybase.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23222749">
+        <state vertical-scroll-proportion="0.0">
           <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
           <folding>
             <element signature="e#38#48#0" expanded="true" />
@@ -543,6 +530,14 @@
             <marker date="1450477591137" expanded="true" signature="2382:2616" placeholder="INSERT INTO city... " />
             <marker date="1450477591137" expanded="true" signature="2382:2619" placeholder="INSERT INTO city... " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queries.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4478673">
+          <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+          <folding />
         </state>
       </provider>
     </entry>
